@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/johnbax/johnbax-2024-9-2-11-49-8/:/
+ - /content/johnbax/johnbax-2024-9-2-11-49-8/metadata.json:/metadata.json
+ - /content/johnbax/johnbax-2024-9-2-11-49-8/redirects.json:/redirects.json
